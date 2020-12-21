@@ -1,0 +1,1 @@
+api_order.py                29 INFO     创建订单接口,请求url为：http://e.cn/api/v1/order 响应结果为：{'order_no': 'DC21391589621025', 'order_id': '125', 'create_time': '2020-12-21 16:25:58', 'pass': True}
